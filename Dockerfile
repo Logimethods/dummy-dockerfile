@@ -1,4 +1,4 @@
 FROM logimethods/jboss-eap-6.1.0-atg:latest
 
-COPY ./standalone_ear/standalone-*.ear /tmp
+COPY ./standalone_ear/ /tmp
 # Comment
